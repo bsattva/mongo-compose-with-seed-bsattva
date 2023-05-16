@@ -6,7 +6,7 @@ Sample of docker compose to spin up mongodb with seed data
 
 Create a .env file with below variables to set environment variables.
 
-```m
+```bash
 MONGO_USERNAME=admin
 MONGO_PASSWORD=admin
 MONGO_HOSTNAME=localhost
